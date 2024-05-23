@@ -12,3 +12,8 @@ Files in this repo.
 "Iteration 4 BDAS.ipynb"                            Python Mining submission<br>
 "README.md"                                         This README file<br>
 
+<table>
+  <tr>
+    <td>"4. Iteration 4 BDAS (Steps 1 – 8).pdf"</td><td>Assignment instructions</td>
+  </tr>
+</table>
