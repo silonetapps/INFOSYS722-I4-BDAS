@@ -5,15 +5,11 @@ This repo is the submission for ssch162 Iteration 4 - BDAS
 
 Files in this repo.
 
-"4. Iteration 4 BDAS (Steps 1 – 8).pdf"             Assignment instructions<br>
-"global-hunger-index.csv"                           Data Source File<br>
-"INFOSYS722 Assignment 4 Iteration 4 BDAS.docx"     Assignment Doc<br>
-"INFOSYS722 Assignment 4 Iteration 4 BDAS.pdf"      Assignment Submission<br>
-"Iteration 4 BDAS.ipynb"                            Python Mining submission<br>
-"README.md"                                         This README file<br>
-
 <table>
-  <tr>
-    <td>"4. Iteration 4 BDAS (Steps 1 – 8).pdf"</td><td>Assignment instructions</td>
-  </tr>
+  <tr><td>"4. Iteration 4 BDAS (Steps 1 – 8).pdf"</td><td>Assignment instructions</td></tr>
+  <tr><td>"global-hunger-index.csv"</td><td>Data Source File</td><td></tr>
+  <tr><td>"INFOSYS722 Assignment 4 Iteration 4 BDAS.docx"</td><td>Assignment Doc</td>td></tr>
+  <tr><td>"INFOSYS722 Assignment 4 Iteration 4 BDAS.pdf"</td><td>Assignment Submission<</td></tr>
+  <tr><td>"Iteration 4 BDAS.ipynb"</td><td>Python Mining submission</td></tr>
+  <tr><td>"README.md" </td><td>This README file</td></tr>
 </table>
